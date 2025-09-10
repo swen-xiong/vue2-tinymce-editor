@@ -1,0 +1,14 @@
+body {
+  font-size: 14px;
+  font-family: Microsoft YaHei,Helvetica Neue,PingFang SC,sans-serif;
+}
+p {
+  margin: 0;
+}
+blockquote {
+  padding: 5px 0 5px 10px;
+  margin: 5px 0;
+  border-left: 2px solid #ddd;
+  background: #f1f1f1;
+}
+
